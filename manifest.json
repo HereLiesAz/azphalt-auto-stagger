@@ -6,6 +6,7 @@
   "kind": "asset",
   "license": "LicenseRef-Proprietary",
   "compat": ">=0.1",
+  "description": "Times each word's entrance to how long it is actually spoken, so the caption keeps pace with the delivery instead of a fixed interval.",
   "author": "HereLiesAz",
   "targetApps": [
     "com.hereliesaz.guillotine"
